@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "James Sutherland"
+subtitle: |
+  James is currently a student at King's College London Maths School in London
+content : |
+  He is studying Maths, Further Maths and Physics A-Levels with an EPQ in web design [this website!] and Computer Science AS
+button:
+  label : "Contact Me"
+  link : "https://jesusschool.tv"
+image : "images/Austria_shot.jpg"
+
